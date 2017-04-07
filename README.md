@@ -1,6 +1,6 @@
-## meirl
+# meirl
 An Implementation of Maximum Entropy Inverse Reinforcement Learning
 
-# Dependencies
+## Dependencies
 - MDP_LIB Library
 - OpenAI Gym
